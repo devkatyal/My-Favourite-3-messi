@@ -1,0 +1,42 @@
+.line{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+body{
+  text-align: center;
+}
+#Hobby{
+    background: linear-gradient(#610087 0%,#b500a0 100%);
+}
+.many{
+    list-style: none;
+    position: absolute;
+    z-index: 10;
+    right: 30px;
+    font-family: sans-serif;
+    cursor: pointer;
+    top: 10px;
+}
+.link{
+    float: left;
+    color: #fff;
+    font-size: 20px;
+    padding-right: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    }
+.parallax-inner{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+}
+#star{
+height: 100%;
+    width: 100%;
+}
